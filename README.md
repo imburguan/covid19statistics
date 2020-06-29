@@ -27,8 +27,16 @@ $> pip install -r requirements.txt
 
 Download Firefox webdriver from https://github.com/mozilla/geckodriver/releases/tag/v0.26.0 to save the heatmap at the end.
 
-### Statistics
 
+# Projeto `Análise da Disseminação de COVID-19 a partir de redes sociais`
+# Project `Analysis of the Dissemination of COVID-19 from social networks`
+
+# Descrição 
+~~~
+As redes sociais exercem um papel fundamental na sociedade hoje, e principalmente através delas que as pessoas se informam e discutem sobre as notícias. Neste trabalho apresentamos um analise das publicações de comentarios referentes a *covid19* ..... 
+~~~
+
+### Statistics
 #### 1. World data
 
     Last run: 2020-06-27 09:50:43.311181
